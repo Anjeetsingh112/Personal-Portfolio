@@ -1304,6 +1304,9 @@ textarea.form-input::-webkit-resizer {
   .navbar-list {
     gap: 14px;
   }
+  .testimonials-item-title {
+    margin-top: 12px;
+  }
 }
 
 /* for larger than 450px screen */
